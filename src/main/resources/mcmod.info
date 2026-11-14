@@ -1,0 +1,8 @@
+[{
+  "modid": "adultmod",
+  "name": "Adult Mod",
+  "description": "Hot girls, button menus, morph potion. 35+ features.",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "authorList": ["You"]
+}]
